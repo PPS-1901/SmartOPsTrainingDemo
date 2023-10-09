@@ -1,0 +1,17 @@
+127.0.0.1 - - [04/Oct/2023:14:22:05 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [04/Oct/2023:14:22:16 +0530] "POST /soap-ws/services/AdminService HTTP/1.0" 200 291
+127.0.0.1 - - [04/Oct/2023:14:22:16 +0530] "POST /soap-ws/services/AdminService HTTP/1.0" 200 4624
+127.0.0.1 - - [04/Oct/2023:14:22:49 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Oct/2023:14:24:22 +0530] "GET /soap-ws/services/StudentServiceImpl HTTP/1.1" 200 142
+0:0:0:0:0:0:0:1 - - [04/Oct/2023:14:24:22 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Oct/2023:14:27:25 +0530] "GET /soap-ws/services/StudentServiceImpl?wsdl HTTP/1.1" 200 3871
+127.0.0.1 - - [04/Oct/2023:14:35:46 +0530] "GET /soap-ws/services/StudentServiceImpl?wsdl HTTP/1.1" 200 3871
+127.0.0.1 - - [04/Oct/2023:15:03:26 +0530] "GET /soap-ws/services/StudentServiceImpl?wsdl HTTP/1.1" 200 3871
+127.0.0.1 - - [04/Oct/2023:15:03:27 +0530] "POST /soap-ws/services/StudentServiceImpl HTTP/1.1" 200 391
+127.0.0.1 - - [04/Oct/2023:15:03:43 +0530] "GET /soap-ws/services/StudentServiceImpl?wsdl HTTP/1.1" 200 3871
+127.0.0.1 - - [04/Oct/2023:15:03:43 +0530] "POST /soap-ws/services/StudentServiceImpl HTTP/1.1" 200 391
+127.0.0.1 - - [04/Oct/2023:15:04:04 +0530] "GET /soap-ws/services/StudentServiceImpl?wsdl HTTP/1.1" 200 3871
+127.0.0.1 - - [04/Oct/2023:15:04:05 +0530] "POST /soap-ws/services/StudentServiceImpl HTTP/1.1" 200 391
+0:0:0:0:0:0:0:1 - - [04/Oct/2023:15:04:57 +0530] "GET /soap-ws/services/StudentServiceImpl?wsdl HTTP/1.1" 200 3871
+127.0.0.1 - - [04/Oct/2023:15:05:11 +0530] "GET /soap-ws/services/StudentServiceImpl?wsdl HTTP/1.1" 200 3871
+127.0.0.1 - - [04/Oct/2023:15:05:12 +0530] "POST /soap-ws/services/StudentServiceImpl HTTP/1.1" 200 391

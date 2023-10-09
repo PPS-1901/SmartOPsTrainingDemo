@@ -1,0 +1,10 @@
+package com.example.springboot.model;
+
+public class Student {
+	
+	private String firstName;
+	private String lastName;
+	private int rollNo;
+	private String grade;
+
+}
